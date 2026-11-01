@@ -476,6 +476,13 @@ export const songs: Song[] = [
     album: "Leaving My Waiting Room",
     duration: 389,
   },
+  {
+    id: 67,
+    title: "All Flowers In Time Bend Towards The Sun",
+    artist: ["Esha Tewari"],
+    album: "All Flowers In Time Bend Towards The Sun",
+    duration: 235,
+  },
 ];
 
 export type PlaceholderSong = {
