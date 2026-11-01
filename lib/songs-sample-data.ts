@@ -455,6 +455,27 @@ export const songs: Song[] = [
     album: "I Love My Computer",
     duration: 231,
   },
+  {
+    id: 64,
+    title: "PINK SUGAR HEART ATTACK",
+    artist: ["KYIEMA"],
+    album: "MANICPIXIEDREAMGIRL",
+    duration: 89,
+  },
+  {
+    id: 65,
+    title: "what we were",
+    artist: ["Sofia Ly"],
+    album: "what we were",
+    duration: 198,
+  },
+  {
+    id: 66,
+    title: "Inamovable",
+    artist: ["Sunlight Ascending"],
+    album: "Leaving My Waiting Room",
+    duration: 389,
+  },
 ];
 
 export type PlaceholderSong = {
